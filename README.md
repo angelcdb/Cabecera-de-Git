@@ -10,6 +10,6 @@ El blogpost de git
 
 * Y cosas muy importantes
 
-*Creado por Angel Contreras
+* Creado por Angel Contreras
 
 Gracias al profe Freddy, ahora se GitHub y puedo ser un mejor profesional
