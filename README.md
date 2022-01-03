@@ -14,4 +14,6 @@ El blogpost de git
 
 *Incluye ejemplos en windows
 
+*Disponible para todas las edades
+
 Gracias al profe Freddy, ahora se GitHub y puedo ser un mejor profesional
