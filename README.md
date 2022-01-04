@@ -12,4 +12,8 @@ El blogpost de git
 
 * Creado por Angel Contreras
 
+* Incluye ejemplos en windows
+
+* Disponible para todas las edades
+
 Gracias al profe Freddy, ahora se GitHub y puedo ser un mejor profesional
