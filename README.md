@@ -10,10 +10,10 @@ El blogpost de git
 
 * Y cosas muy importantes
 
-*Creado por Angel Contreras
+* Creado por Angel Contreras
 
-*Incluye ejemplos en windows
+* Incluye ejemplos en windows
 
-*Disponible para todas las edades
+* Disponible para todas las edades
 
 Gracias al profe Freddy, ahora se GitHub y puedo ser un mejor profesional
