@@ -11,12 +11,5 @@ El blogpost de git
 * Y cosas muy importantes
 
 * Creado por Angel Contreras
-<<<<<<< HEAD
-=======
-
-* Incluye ejemplos en windows
-
-* Disponible para todas las edades
->>>>>>> 72fefc4 (Readme mejorado 2)
 
 Gracias al profe Freddy, ahora se GitHub y puedo ser un mejor profesional
